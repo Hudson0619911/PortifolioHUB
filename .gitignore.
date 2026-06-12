@@ -1,0 +1,16 @@
+# Variáveis de ambiente e segredos
+.env
+.env.local
+.env.production
+
+# Dependências
+node_modules/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+qlqr arq .env # nunca será enviado ao github por acidente
